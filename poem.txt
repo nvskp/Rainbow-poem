@@ -1,6 +1,7 @@
 The rainbow
 violet
 indigo
+blue
 green
 orange
 red
