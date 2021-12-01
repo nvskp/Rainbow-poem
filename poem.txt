@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow and the unicorn and the ponies
 violet
 indigo
 blue
@@ -6,5 +6,6 @@ green
 unicorn
 yellow
 orange
+ponies
 red
-these are the colours of my rainbow and the unicorn
+these are the colours of my rainbow and the unicorn and i added ponies
